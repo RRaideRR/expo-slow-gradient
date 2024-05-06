@@ -23,7 +23,11 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.raider.expogradient"
+      "package": "com.raider.expogradient",
+      "splash": {
+        "image": "./assets/splash.png",
+        "resizeMode": "native"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
